@@ -1,0 +1,26 @@
+emp_id,emp_name,department,salary,city,email,joining_date
+1001,Ravi Kumar,IT,55000,Hyderabad,ravi.kumar@gmail.com,2021-01-15
+1002,Sneha Reddy,HR,48000,Chennai,sneha.reddy@gmail.com,2020-03-10
+1003,Arjun Mehta,Finance,62000,Bangalore,arjun.mehta@gmail.com,2019-07-21
+1004,Priya Sharma,IT,70000,Pune,priya.sharma@gmail.com,2022-02-11
+1005,Kiran Rao,Sales,45000,Mumbai,kiran.rao@gmail.com,2021-06-18
+1006,Anjali Verma,HR,51000,Delhi,anjali.verma@gmail.com,2020-09-25
+1007,Rohit Singh,IT,72000,Hyderabad,rohit.singh@gmail.com,2018-12-05
+1008,Meena Patel,Finance,68000,Ahmedabad,meena.patel@gmail.com,2019-11-30
+1009,Vikram Joshi,Marketing,53000,Kolkata,vikram.joshi@gmail.com,2021-08-14
+1010,Neha Kapoor,Sales,47000,Chennai,neha.kapoor@gmail.com,2022-04-09
+1011,Suresh Naik,IT,75000,Bangalore,suresh.naik@gmail.com,2017-05-19
+1012,Divya Nair,Finance,61000,Kochi,divya.nair@gmail.com,2020-10-01
+1013,Manoj Gupta,HR,49000,Delhi,manoj.gupta@gmail.com,2021-01-27
+1014,Pooja Das,Marketing,52000,Bhubaneswar,pooja.das@gmail.com,2022-07-13
+1015,Harish Yadav,Sales,46000,Jaipur,harish.yadav@gmail.com,2020-05-16
+1016,Swathi Iyer,IT,78000,Hyderabad,swathi.iyer@gmail.com,2019-03-22
+1017,Amit Tiwari,Finance,64000,Lucknow,amit.tiwari@gmail.com,2018-09-12
+1018,Kavya Menon,HR,50000,Kochi,kavya.menon@gmail.com,2021-11-08
+1019,Rahul Jain,Marketing,54000,Indore,rahul.jain@gmail.com,2022-01-20
+1020,Nisha Ali,Sales,48000,Mumbai,nisha.ali@gmail.com,2020-08-17
+1021,Deepak Roy,IT,81000,Pune,deepak.roy@gmail.com,2017-10-29
+1022,Shalini Bose,Finance,66000,Kolkata,shalini.bose@gmail.com,2019-06-24
+1023,Venu Gopal,HR,52000,Hyderabad,venu.gopal@gmail.com,2021-12-02
+1024,Asha Kulkarni,Marketing,56000,Nagpur,asha.kulkarni@gmail.com,2022-05-06
+1025,Rakesh Choudhary,Sales,49000,Jaipur,rakesh.choudhary@gmail.com,2020-02-28
