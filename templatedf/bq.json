@@ -1,12 +1,20 @@
-{ 
+
+{
   "BigQuery Schema": [
-   { "name": "emp_id", "type": "INTEGER" },
-   { "name": "emp_name", "type": "STRING" },
-   { "name": "department", "type": "STRING" },
-   { "name": "salary", "type": "INTEGER" },
-   { "name": "city", "type": "STRING" },
-   { "name": "email", "type": "STRING" },
-   { "name": "joining_date", "type": "DATE" },
-   { "name": "annual_salary", "type": "INTEGER" }
-    ] 
-  }
+    { "name": "emp_id", "type": "INTEGER" },
+    { "name": "emp_name", "type": "STRING" },
+    { "name": "department", "type": "STRING" },
+    { "name": "salary", "type": "INTEGER" },
+    { "name": "city", "type": "STRING" },
+    { "name": "email", "type": "STRING" },
+    { "name": "joining_date", "type": "DATE" },
+    { "name": "annual_salary", "type": "INTEGER" },
+    { "name": "annual_bonus", "type": "FLOAT" },
+    { "name": "total_compensation", "type": "FLOAT" },
+    { "name": "salary_category", "type": "STRING" },
+    { "name": "email_domain", "type": "STRING" },
+    { "name": "joining_year", "type": "INTEGER" },
+    { "name": "experience_years", "type": "INTEGER" },
+    { "name": "employee_status", "type": "STRING" }
+  ]
+}
